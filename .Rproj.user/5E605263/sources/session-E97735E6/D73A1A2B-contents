@@ -4,3 +4,8 @@ output_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
+
+# SKNC: define order of chapters (default is using the numbers)
+#https://bookdown.org/yihui/bookdown/usage.html
+rmd_files: ["index.Rmd", "03-parts.Rmd", "01-intro.Rmd"]
+
