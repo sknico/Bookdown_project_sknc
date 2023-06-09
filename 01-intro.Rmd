@@ -13,3 +13,5 @@ Chapters and sections are numbered by default. To un-number a heading, add a `{.
 
 
 SKNC1: Og nu har jeg lavet en ændringer i dokumentet. 
+SKNC2: og endnu en, for at tjekke github. 
+SKNC2: og endnu en, for at tjekke github. Igen
